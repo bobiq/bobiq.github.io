@@ -2,7 +2,8 @@
 
 Here are some of the projects I have recently been working on:
 
-<a href="/YouTube_channels_by_topic_Github_v1.html">1. YouTube channel data statistics for a selected topic</a>
+<a href="/YouTube_channels_by_topic_Github_v1.html">1. YouTube channel data statistics for a selected topic (using seaborn, pandas, numpy, wordcloud, google API, functions)</a>
+<a> (using seaborn, pandas, numpy, wordcloud, google API, functions)</a>
 <br>
 <a href="/evmos/evmos.html">2. Best entries and exits for daily trading</a>
 <br>

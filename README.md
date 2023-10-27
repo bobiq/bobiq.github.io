@@ -2,6 +2,9 @@
 
 Here are some of the projects I have recently been working on:
 
+- [Sentiments in today's newspaper headlines](https://app.datacamp.com/workspace/w/68320687-0e01-4b5d-84aa-9cdc32fc2115#sentiments-of-todays-newspaper-headlines)
+  (libraries: SpaCy, NLTK, pandas, BeautifulSoup, requests, seaborn)
+
 - [YouTube channel data statistics for a selected topic](/YouTube_channels_by_topic_Github_v1.html)
   (libraries: streamlit, seaborn, pandas, numpy, wordcloud, google API, functions)
 
